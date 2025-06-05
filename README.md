@@ -1,1 +1,1 @@
-QuizHub is a simple quiz application built using MERN stack. It allows users to attempt quizzes and view their scores. Admins can manage quiz content. Developed as a learning project."
+QuizHub is a straightforward quiz application. Users are able to take quizzes and see their results. Quiz content can be managed by administrators. created as an educational endeavor.
